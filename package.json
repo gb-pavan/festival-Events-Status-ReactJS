@@ -1,5 +1,6 @@
 {
   "name": "events",
+  "homepage": "https://gb-pavan.github.io/festival-Events-Status-ReactJS",
   "private": true,
   "version": "1.0.0",
   "engines": {
@@ -11,6 +12,7 @@
     "@testing-library/react": "11.2.5",
     "@testing-library/user-event": "12.6.2",
     "chalk": "4.1.0",
+    "gh-pages": "5.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
@@ -25,6 +27,8 @@
     "react-scripts": "4.0.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
