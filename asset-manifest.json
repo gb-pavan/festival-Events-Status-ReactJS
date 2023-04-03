@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/festival-Events-Status-ReactJS/static/css/main.2755d6ee.css",
+    "main.js": "/festival-Events-Status-ReactJS/static/js/main.4abde455.js",
+    "index.html": "/festival-Events-Status-ReactJS/index.html",
+    "main.2755d6ee.css.map": "/festival-Events-Status-ReactJS/static/css/main.2755d6ee.css.map",
+    "main.4abde455.js.map": "/festival-Events-Status-ReactJS/static/js/main.4abde455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2755d6ee.css",
+    "static/js/main.4abde455.js"
+  ]
+}
